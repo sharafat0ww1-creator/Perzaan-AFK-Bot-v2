@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.145.214:11670",
-    "port": 11670,
+    "ip": "pingosmp.mcsh.io",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
